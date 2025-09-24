@@ -1,0 +1,12 @@
+{
+  "name": "tax-gst-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for GST and Income Tax calculation (AY 2025-26)",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["chatbot", "gst", "income tax", "github pages"],
+  "author": "Your Name",
+  "license": "MIT"
+}
